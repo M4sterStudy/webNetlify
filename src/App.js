@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logoNetlify} className="App-logo" alt="logo" />
         <p>
-          Subir proyecto a Nelify, suscribanse.
+          Subir proyecto a Nelify
         </p>
       </header>
     </div>
